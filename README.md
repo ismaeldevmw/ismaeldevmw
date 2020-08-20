@@ -14,5 +14,5 @@ Want to know more? Check out my [About page](https://ismaellopez.dev/about/) on 
 
 ### My Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=munific&show_icons=true&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ismaeldevmw&show_icons=true&hide_border=true)
 
