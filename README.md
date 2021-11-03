@@ -5,7 +5,7 @@
 **I'm computer systems engineer who loves working on the web.**
 
 - 🌎 I was born in Mexico
-- ⏳ I occasionally make podcast or write post about personal growth and web developmemt.
+- ⏳ I occasionally make podcast or write post about web developmemt
 
 Want to know more? Check out my [About page](https://ismaellopez.dev/about/) on my portfolio.
 
