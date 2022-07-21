@@ -2,7 +2,7 @@
 ### Hello, I'm Ismael
 
 
-**I am Fronted developer, passionate about web development, design and education**
+**I am Frontend developer 🙋‍♂️,  passionate about web development, design and education 💜**
 
 - 🌎 I was born in Mexico
 - ⏳ I occasionally make [podcast](https://open.spotify.com/show/6NpVP8Ce4yAgLanNM0BTGk) or write [posts](https://ismaellopez.dev/blog) on my personal blog about web developmemt
